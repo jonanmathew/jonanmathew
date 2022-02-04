@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jonanmathew
 - 👀 I’m interested in coding and programming in general
-- 🌱 I’m currently learning automating scripts using python.
+- 🌱 I’m currently learning various Python Frameworks
 - 💞️ I’m looking to collaborate on various projects
 - 📫 How to reach me: jonanmathew@gmail.com
 
